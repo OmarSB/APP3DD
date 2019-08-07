@@ -1,0 +1,17 @@
+Rutas 
+
+1. Get
+APP3D.com/asignaturas/geografía
+Rutas: /asignaturas/nombre
+
+2. Get
+APP3D.com/temas/sociales
+Rutas: /temas/nombre
+
+3. Get
+APP3D.com/recursos/geografía
+Rutas: /recursos/nombre
+
+4. Get
+APP3D.com/temas/geografía
+Rutas: /asignaturas/nombre
